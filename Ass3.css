@@ -74,7 +74,8 @@ input[type="text"], input[type="password"] {
     background-color: #36a420;
 }
 
-.para{
-    margin-top: 20px;       /* Space above the last p */
-    text-align: center;     /* Center the last paragraph */
+.paragraph{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }
